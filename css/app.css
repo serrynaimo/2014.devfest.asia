@@ -28,8 +28,8 @@ header {
 }
 
 header h1 {
-	font-size: 2em;
-	font-weight: bold;
+	font-family: 'Sue Ellen Francisco';
+	font-size: 3em;
 	text-transform: uppercase;
 	color: #2E2C2C;
 	line-height: 1.1em;
