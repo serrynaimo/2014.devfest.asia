@@ -44,8 +44,17 @@
 			</li>
 			<li>
 				<a href="http://2014.jsconf.asia">
-					<div class="date"><span class="day">20-21</span> Nov</div>
-					<h3>JSConf.Asia</h3>
+					<div class="date"><span class="day">20</span> Nov</div>
+					<h3>JSConf.Asia Day 1</h3>
+					<p class="desc">Asia's most influential JavaScript, web and mobile developer conference</p>
+				</a>
+				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
+				<button onclick="location='http://2014.jsconf.asia';">Get ticket</button>
+			</li>
+			<li>
+				<a href="http://2014.jsconf.asia">
+					<div class="date"><span class="day">21</span> Nov</div>
+					<h3>JSConf.Asia Day 2</h3>
 					<p class="desc">Asia's most influential JavaScript, web and mobile developer conference</p>
 				</a>
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
