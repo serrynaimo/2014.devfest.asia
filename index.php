@@ -34,6 +34,15 @@
 	<section id="content">
 		<ul>
 			<li>
+				<a href="http://feds.strikingly.com/">
+					<div class="date"><span class="day">17</span> Nov</div>
+					<h3>Front End Dev Meetup</h3>
+					<p class="desc">Free and open events for front end developers in Singapore. Come to learn, meet, and share.</p>
+				</a>
+				<div class="location">Location TBA</div>
+				<button onclick="location='https://www.facebook.com/groups/frontendsingapore/';">Join for free on Facebook</button>
+			</li>
+			<li>
 				<a href="http://2014.cssconf.asia">
 					<div class="date"><span class="day">19</span> Nov</div>
 					<h3>CSSConf.Asia</h3>
