@@ -101,7 +101,8 @@ header h2 {
 	color: #80BDBF;
 	font-size: 2.5em;
 	font-weight: 200;
-	padding: 5px 15px 0;
+	padding: 15px 15px;
+	line-height: .95em;
 }
 
 #content li .location {
