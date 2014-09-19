@@ -35,6 +35,33 @@
 		<ul>
 			<li>
 				<a href="http://feds.strikingly.com/">
+					<div class="date"><span class="day">14</span> Nov</div>
+					<h3>Hackerspace.SG turns 5 - Day 1</h3>
+					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
+				</a>
+				<div class="location">344B King George’s Avenue, Singapore 208576</div>
+				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
+			</li>
+			<li>
+				<a href="http://feds.strikingly.com/">
+					<div class="date"><span class="day">15</span> Nov</div>
+					<h3>Hackerspace.SG turns 5 - Day 2</h3>
+					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
+				</a>
+				<div class="location">344B King George’s Avenue, Singapore 208576</div>
+				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
+			</li>
+			<li>
+				<a href="http://feds.strikingly.com/">
+					<div class="date"><span class="day">16</span> Nov</div>
+					<h3>Hackerspace.SG turns 5 - Day 3</h3>
+					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
+				</a>
+				<div class="location">344B King George’s Avenue, Singapore 208576</div>
+				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
+			</li>
+			<li>
+				<a href="http://feds.strikingly.com/">
 					<div class="date"><span class="day">17</span> Nov</div>
 					<h3>Front End Developer Meetup</h3>
 					<p class="desc">Free and open events for front end developers in Singapore. Come to learn, meet, and share.</p>
