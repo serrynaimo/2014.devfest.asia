@@ -33,7 +33,7 @@
 	</header>
 	<section id="content">
 		<ul>
-			<li>
+			<li style="background-image: url(img/hackerspace.jpg)">
 				<a href="http://feds.strikingly.com/">
 					<div class="date"><span class="day">14</span> Nov</div>
 					<h3>Hackerspace.SG turns 5 - Day 1</h3>
@@ -42,7 +42,7 @@
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
 				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
 			</li>
-			<li>
+			<li style="background-image: url(img/hackerspace.jpg)">
 				<a href="http://feds.strikingly.com/">
 					<div class="date"><span class="day">15</span> Nov</div>
 					<h3>Hackerspace.SG turns 5 - Day 2</h3>
@@ -51,7 +51,7 @@
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
 				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
 			</li>
-			<li>
+			<li style="background-image: url(img/hackerspace.jpg)">
 				<a href="http://feds.strikingly.com/">
 					<div class="date"><span class="day">16</span> Nov</div>
 					<h3>Hackerspace.SG turns 5 - Day 3</h3>
@@ -60,7 +60,7 @@
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
 				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
 			</li>
-			<li>
+			<li style="background-image: url(img/frontend.jpg)">
 				<a href="http://feds.strikingly.com/">
 					<div class="date"><span class="day">17</span> Nov</div>
 					<h3>Front End Developer Meetup</h3>
@@ -69,16 +69,25 @@
 				<div class="location">Location TBA</div>
 				<button onclick="location='https://www.facebook.com/groups/frontendsingapore/';">Join for free on Facebook</button>
 			</li>
-			<li>
+			<li style="background-image: url(img/cssconf.jpg)">
 				<a href="http://2014.cssconf.asia">
 					<div class="date"><span class="day">19</span> Nov</div>
 					<h3>CSSConf.Asia</h3>
-					<p class="desc">Bridging webdesign and implementation</p>
+					<p class="desc">For the first time in Asia: Bridging webdesign and implementation.</p>
 				</a>
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
 			</li>
-			<li>
+			<li style="background-image: url(img/redmart.jpg)">
+				<a href="http://2014.cssconf.asia">
+					<div class="date"><span class="day">19</span> Nov</div>
+					<h3>The great free Redmart beach delivery</h3>
+					<p class="desc">Official CSSConf.Asia after-party and JSConf.Asia welcome-party sponsored by Redmart</p>
+				</a>
+				<div class="location">Southermost Point Island, Sentosa, Singapore</div>
+				<button onclick="location='https://eventnook.com/event/register/22634';">$30 cover charge, free for CSSConf/JSConf.Asia attendees</button>
+			</li>
+			<li style="background-image: url(img/jsconf.jpg)">
 				<a href="http://2014.jsconf.asia">
 					<div class="date"><span class="day">20</span> Nov</div>
 					<h3>JSConf.Asia Day 1</h3>
@@ -87,7 +96,7 @@
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
 			</li>
-			<li>
+			<li style="background-image: url(img/jsconf.jpg)">
 				<a href="http://2014.jsconf.asia">
 					<div class="date"><span class="day">21</span> Nov</div>
 					<h3>JSConf.Asia Day 2</h3>
@@ -95,6 +104,15 @@
 				</a>
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
+			</li>
+			<li style="background-image: url(img/paypal.jpg)">
+				<a href="http://2014.jsconf.asia">
+					<div class="date"><span class="day">21</span> Nov</div>
+					<h3>JS.Out Paypal After-Party</h3>
+					<p class="desc">Official JSConf.Asia after-party sponsored by Paypal</p>
+				</a>
+				<div class="location">Mambo Beach Club, Sentosa, Singapore</div>
+				<button onclick="location='https://eventnook.com/event/register/22634';">Everyone welcome, free drinks and beach BBQ for JSConf.Asia attendees</button>
 			</li>
 		</ul>
 	</section>

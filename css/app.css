@@ -64,9 +64,25 @@ header h2 {
 
 #content li {
 	margin: 0 0 40px 80px;
+	width: 380px;
 	list-style-type: none;
 	background: #F9F7F5;
 	position: relative;
+	background-size: 380px auto;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+@media all and (min-width: 1020px) {
+    #content {
+        width: 1020px;
+    }
+    #content li {
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+        margin: 0 40px 40px 80px;
+    }
 }
 
 #content li a {
@@ -97,12 +113,18 @@ header h2 {
 }
 
 #content li h3 {
-	margin: 0;
-	color: #80BDBF;
+	position: absolute;
+	top: -40px;
+	left: 0;
+	right: 0;
+	min-height: 100px;
+	color: #fff;
+	text-shadow: 2px 2px 0 #222;
 	font-size: 2.5em;
 	font-weight: 200;
 	padding: 15px 15px;
 	line-height: .95em;
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,0) 100%);
 }
 
 #content li .location {
@@ -112,7 +134,7 @@ header h2 {
 }
 
 #content li p {
-	padding: 5px 15px 15px;
+	padding: 240px 15px 15px;
 	margin: 0;
 }
 
