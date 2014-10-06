@@ -10,6 +10,7 @@ body {
 }
 
 button {
+    position: relative;
 	background: #FF4A6D;
 	border: 0;
 	outline: 0;
@@ -19,6 +20,15 @@ button {
 	padding: 8px 15px;
 	margin-top: 15px;
 	cursor: pointer;
+}
+
+button:hover {
+	box-shadow: 0px 2px 2px rgba(0,0,0,.2);
+}
+
+button:active {
+	top: 1px;
+	box-shadow: none;
 }
 
 header {
@@ -221,18 +231,10 @@ header nav > a:hover {
 
 #content li button {
 	width: 100%;
-	position: relative;
 }
 
 #content li button:hover {
 	background: #eb3055;
-	box-shadow: 0px 2px 2px rgba(0,0,0,.2);
-}
-
-#content li button:active {
-	background: #e62d52;
-	top: 1px;
-	box-shadow: none;
 }
 
 footer {
@@ -252,4 +254,8 @@ footer p {
 footer button {
 	font-size: .8em;
 	background: #80BDBF;
+}
+
+footer button:hover {
+    background: #73afb1;
 }
