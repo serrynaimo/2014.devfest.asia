@@ -20,7 +20,7 @@
 	<meta name="title" content=">DevFest.Asia 2014 Singapore"/>
 	<meta name="description" content="Southeast Asia's first community organized web developer festival, November 14th - 22nd, Singapore"/>
 </head>
-<body class="loading">
+<body>
 	<header>
 		<h1>
 			<span class="location">Singapore</span>
@@ -32,7 +32,7 @@
 			<i>November 14th - 22nd</i>
 		</h2>
 		<nav>
-		    <div>Browse by day</div>
+		    <a href="#">Browse by day</a>
 		    <a href="#fri14">14</a>
 		    <a href="#sat15">15</a>
 		    <a href="#sun16">16</a>
@@ -148,7 +148,7 @@
 
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.js"></script>
     <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery.min.js">\x3C/script>')</script>
-	<script src="js/app.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
