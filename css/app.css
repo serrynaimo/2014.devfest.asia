@@ -105,6 +105,17 @@ header h2 {
 	height: 45px;
 }
 
+#content li .time {
+	text-align: center;
+	position: absolute;
+	left: -85px;
+	top: 70px;
+	font-size: .8em;
+	color: #80BDBF;
+	font-weight: 200;
+	width: 65px;
+}
+
 #content li .date .day {
 	display: block;
 	font-size: 2.5em;
