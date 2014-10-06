@@ -14,7 +14,7 @@
 	<meta property="og:title" content="DevFest.Asia 2014 Singapore"/>
 	<meta property="og:type" content="website"/>
 	<meta property="og:url" content="http://devfest.asia/"/>
-	<meta property="og:image" content="http://devfest.asia/assets/og_devfestasia.png"/>
+	<meta property="og:image" content="http://2014.devfest.asia/assets/og_devfestasia.png"/>
 	<meta property="og:site_name" content="devfest.asia"/>
 	<meta property="og:description" content="Southeast Asia's first community organized web developer festival, Singapore 2014"/>
 	<meta name="title" content=">DevFest.Asia 2014 Singapore"/>
@@ -28,14 +28,14 @@
 			<span class="year">2014</span>
 		</h1>
 		<h2>
-			Southeast Asia's first community organized web developer festival
+			Southeast Asia's first community organized web developer festival<br/>
 		</h2>
 	</header>
 	<section id="content">
 		<ul>
 			<li style="background-image: url(img/hackerspace.jpg)">
 				<a href="http://feds.strikingly.com/">
-					<div class="date"><span class="day">14</span> Nov</div>
+					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
 					<div class="time"></div>
 					<h3>Hackerspace.SG turns 5 - Day 1</h3>
 					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
@@ -45,7 +45,7 @@
 			</li>
 			<li style="background-image: url(img/hackerspace.jpg)">
 				<a href="http://feds.strikingly.com/">
-					<div class="date"><span class="day">15</span> Nov</div>
+					<div class="date"><span class="weekday">Saturday</span><span class="day">15</span> Nov</div>
 					<div class="time"></div>
 					<h3>Hackerspace.SG turns 5 - Day 2</h3>
 					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
@@ -55,7 +55,7 @@
 			</li>
 			<li style="background-image: url(img/hackerspace.jpg)">
 				<a href="http://feds.strikingly.com/">
-					<div class="date"><span class="day">16</span> Nov</div>
+					<div class="date"><span class="weekday">Sunday</span><span class="day">16</span> Nov</div>
 					<div class="time"></div>
 					<h3>Hackerspace.SG turns 5 - Day 3</h3>
 					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
@@ -65,7 +65,7 @@
 			</li>
 			<li style="background-image: url(img/frontend.jpg)">
 				<a href="http://feds.strikingly.com/">
-					<div class="date"><span class="day">17</span> Nov</div>
+					<div class="date"><span class="weekday">Monday</span><span class="day">17</span> Nov</div>
 					<div class="time">6:30pm</div>
 					<h3>Front End Developer Meetup</h3>
 					<p class="desc">Free and open events for front end developers in Singapore. Come to learn, meet, and share.</p>
@@ -75,7 +75,7 @@
 			</li>
 			<li style="background-image: url(img/cssconf.jpg)">
 				<a href="http://2014.cssconf.asia">
-					<div class="date"><span class="day">19</span> Nov</div>
+					<div class="date"><span class="weekday">Wednesday</span><span class="day">19</span> Nov</div>
 					<div class="time">8am - 5pm</div>
 					<h3>CSSConf.Asia</h3>
 					<p class="desc">For the first time in Asia: Bridging webdesign and implementation.</p>
@@ -85,7 +85,7 @@
 			</li>
 			<li style="background-image: url(img/redmart.jpg)">
 				<a href="http://2014.cssconf.asia">
-					<div class="date"><span class="day">19</span> Nov</div>
+					<div class="date"><span class="weekday">Wednesday</span><span class="day">19</span> Nov</div>
 					<div class="time">6pm</div>
 					<h3>The great Redmart beach delivery</h3>
 					<p class="desc">Official CSSConf.Asia after-party and JSConf.Asia welcome-party sponsored by Redmart</p>
@@ -95,7 +95,7 @@
 			</li>
 			<li style="background-image: url(img/jsconf.jpg)">
 				<a href="http://2014.jsconf.asia">
-					<div class="date"><span class="day">20</span> Nov</div>
+					<div class="date"><span class="weekday">Thursday</span><span class="day">20</span> Nov</div>
 					<div class="time">8am - 6pm</div>
 					<h3>JSConf.Asia Day 1</h3>
 					<p class="desc">Asia's most influential JavaScript, web and mobile developer conference</p>
@@ -105,7 +105,7 @@
 			</li>
 			<li style="background-image: url(img/jsconf.jpg)">
 				<a href="http://2014.jsconf.asia">
-					<div class="date"><span class="day">21</span> Nov</div>
+					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">8am - 6pm</div>
 					<h3>JSConf.Asia Day 2</h3>
 					<p class="desc">Asia's most influential JavaScript, web and mobile developer conference</p>
@@ -115,7 +115,7 @@
 			</li>
 			<li style="background-image: url(img/paypal.jpg)">
 				<a href="http://2014.jsconf.asia">
-					<div class="date"><span class="day">21</span> Nov</div>
+					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">6:30pm</div>
 					<h3>JS.Out Paypal After-Party</h3>
 					<p class="desc">Official JSConf.Asia after-party sponsored by Paypal</p>
