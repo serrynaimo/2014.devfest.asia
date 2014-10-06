@@ -98,7 +98,7 @@
 				<a href="http://2014.cssconf.asia">
 					<div class="date"><span class="weekday">Wednesday</span><span class="day">19</span> Nov</div>
 					<div class="time">6pm</div>
-					<h3>The great Redmart beach delivery</h3>
+					<h3>Developer Island</h3>
 					<p class="desc">Official CSSConf.Asia after-party and JSConf.Asia welcome-party sponsored by Redmart</p>
 				</a>
 				<div class="location">Southermost Point Island, Sentosa, Singapore</div>
@@ -128,7 +128,7 @@
 				<a href="http://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">6:30pm</div>
-					<h3>JS.Out Paypal After-Party</h3>
+					<h3>Beach.js</h3>
 					<p class="desc">Official JSConf.Asia after-party sponsored by Paypal</p>
 				</a>
 				<div class="location">Mambo Beach Club, Sentosa, Singapore</div>
