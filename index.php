@@ -81,7 +81,7 @@
 			<li style="background-image: url(img/redmart.jpg)">
 				<a href="http://2014.cssconf.asia">
 					<div class="date"><span class="day">19</span> Nov</div>
-					<h3>The great free Redmart beach delivery</h3>
+					<h3>The great Redmart beach delivery</h3>
 					<p class="desc">Official CSSConf.Asia after-party and JSConf.Asia welcome-party sponsored by Redmart</p>
 				</a>
 				<div class="location">Southermost Point Island, Sentosa, Singapore</div>
