@@ -37,11 +37,9 @@
 		    <a href="#sat15">15</a>
 		    <a href="#sun16">16</a>
 		    <a href="#mon17">17</a>
-		    <a href="#tue18">18</a>
 		    <a href="#wed19">19</a>
 		    <a href="#thu20">20</a>
 		    <a href="#fri21">21</a>
-		    <a href="#sat22">22</a>
 		</nav>
 	</header>
 	<section id="content">
