@@ -63,7 +63,7 @@ header h2 {
 }
 
 #content li {
-	margin: 0 0 40px 80px;
+	margin: 0 0 70px 80px;
 	width: 380px;
 	list-style-type: none;
 	background: #F9F7F5;
@@ -81,7 +81,7 @@ header h2 {
         display: inline-block;
         vertical-align: top;
         position: relative;
-        margin: 0 40px 40px 80px;
+        margin: 0 48px 70px 80px;
     }
 }
 
