@@ -29,10 +29,12 @@
 		</h1>
 		<h2>
 			Southeast Asia's first community organized web developer festival<br/><br/>
-			<i>November 14th - 21st</i>
+			<i>November 12th - 21st</i>
 		</h2>
 		<nav>
 		    <a href="#">Browse by day</a>
+		    <a href="#wed12">12</a>
+   		    <a href="#thu13">13</a>
 		    <a href="#fri14">14</a>
 		    <a href="#sat15">15</a>
 		    <a href="#sun16">16</a>
@@ -44,6 +46,26 @@
 	</header>
 	<section id="content">
 		<ul>
+			<li style="background-image: url(img/agile.jpg)">
+				<a name="wed12" href="http://2014.agilesingapore.org/">
+					<div class="date"><span class="weekday">Wednesday</span><span class="day">12</span> Nov</div>
+					<div class="time"></div>
+					<h3>Agile Singapore - Day 1</h3>
+					<p class="desc">A conference about methodology and problem solving in technology and beyond.</p>
+				</a>
+				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
+				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
+			</li>
+			<li style="background-image: url(img/agile.jpg)">
+				<a name="thu13" href="http://2014.agilesingapore.org/">
+					<div class="date"><span class="weekday">Thursday</span><span class="day">13</span> Nov</div>
+					<div class="time"></div>
+					<h3>Agile Singapore - Day 2</h3>
+					<p class="desc">A conference about methodology and problem solving in technology and beyond.</p>
+				</a>
+				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
+				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
+			</li>
 			<li style="background-image: url(img/hackerspace.jpg)">
 				<a name="fri14" href="http://feds.strikingly.com/">
 					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
@@ -53,6 +75,16 @@
 				</a>
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
 				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
+			</li>
+			<li style="background-image: url(img/agile.jpg)">
+				<a href="http://2014.agilesingapore.org/">
+					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
+					<div class="time"></div>
+					<h3>Agile Singapore - Day 3</h3>
+					<p class="desc">A conference about methodology and problem solving in technology and beyond.</p>
+				</a>
+				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
+				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
 			</li>
 			<li style="background-image: url(img/hackerspace.jpg)">
 				<a name="sat15" href="http://feds.strikingly.com/">
