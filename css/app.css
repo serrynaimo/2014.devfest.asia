@@ -90,7 +90,7 @@ header nav > a:first-child {
     text-align: left;
     padding: 13px 10px;
     text-transform: uppercase;
-    color: #80BDBF;
+    color: #333;
     font-weight: 200;
 }
 
@@ -166,7 +166,7 @@ header nav > a:hover {
 	left: -85px;
 	top: 150px;
 	font-size: .8em;
-	color: #80BDBF;
+	color: #333;
 	font-weight: 200;
 	width: 65px;
 }
