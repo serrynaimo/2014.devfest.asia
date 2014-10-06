@@ -50,10 +50,47 @@ header h1 .year {
 header h2 {
 	font-size: 1em;
 	font-weight: 300;
+	line-height: 1.1em;
+	margin-bottom: 50px;
+}
+
+header nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: #F9F7F5;
+    min-width: 490px;
+}
+
+header nav > * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header nav > div {
+    font-size: .8em;
+    width: 50px;
+    line-height: 1em;
+    text-align: left;
+    padding: 10px;
+    text-transform: uppercase;
+    color: #80BDBF;
+}
+
+header nav > a {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #80BDBF;
+    text-decoration: none;
+    padding: 10px 8px;
+}
+
+header nav > a:hover {
+    background: #eee;
 }
 
 #content {
-	margin: 50px auto;
+	margin: 140px auto 50px;
 	width: 460px;
 }
 
@@ -88,6 +125,7 @@ header h2 {
 #content li a {
 	text-decoration: none;
 	color: #2E2C2C;
+	outline: 0;
 }
 
 #content li .date {
