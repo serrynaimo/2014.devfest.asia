@@ -29,7 +29,7 @@
 		</h1>
 		<h2>
 			Southeast Asia's first community organized web developer festival<br/><br/>
-			<i>November 14th - 22nd</i>
+			<i>November 14th - 21st</i>
 		</h2>
 		<nav>
 		    <a href="#">Browse by day</a>
