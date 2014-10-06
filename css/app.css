@@ -211,11 +211,11 @@ header nav > a:hover {
 	font-weight: 200;
 	padding: 15px 15px;
 	line-height: .95em;
-    background-image: linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,0) 100%);
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,0) 100%);
-    background-image: -moz-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,0) 100%);
-    background-image: -o-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,0) 100%);
-    background-image: -ms-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,0) 100%);
+    background-image: linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,.2) 35%, rgba(0,0,0,0) 100%);
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,.2) 35%, rgba(0,0,0,0) 100%);
+    background-image: -moz-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,.2) 35%, rgba(0,0,0,0) 100%);
+    background-image: -o-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,.2) 35%, rgba(0,0,0,0) 100%);
+    background-image: -ms-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(0,0,0,.2) 35%, rgba(0,0,0,0) 100%);
 }
 
 #content li .location {
