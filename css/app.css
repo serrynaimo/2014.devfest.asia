@@ -199,6 +199,16 @@ header nav > a:hover {
 	color: #fff;
 }
 
+#content li a[name=allweek] .date {
+    background: #80BDBF;
+    color: #fff;
+}
+
+#content li a[name=allweek] .date .day {
+    font-size: 1.8em;
+    font-weight: 700;
+}
+
 #content li h3 {
 	position: absolute;
 	top: 40px;

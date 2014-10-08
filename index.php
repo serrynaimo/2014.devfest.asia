@@ -46,6 +46,16 @@
 	</header>
 	<section id="content">
 		<ul>
+			<li style="background-image: url(img/jfdi.jpg)">
+				<a name="allweek" href="http://jfdi.asia">
+					<div class="date"><span class="weekday">Mon - Fri</span><span class="day">All Week</span></div>
+					<div class="time">9am - 6pm</div>
+					<h3>Co-working at JFDI.Asia</h3>
+					<p class="desc">Southeast Asias leading startup accelerator opens its co-working café for you. Power, Wi-Fi and a cup of coffee included. Please note that the space is limited to ~15pax!</p>
+				</a>
+				<div class="location">71 Ayer Rajah Crescent #05-16, Singapore 139951</div>
+				<button onclick="location='http://jfdi.asia/cafe/';">Special DevFest offer:<br/> Day-Pass $15, Week-Pass $50</button>
+			</li>
 			<li style="background-image: url(img/agile.jpg)">
 				<a name="wed12" href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Wednesday</span><span class="day">12</span> Nov</div>
