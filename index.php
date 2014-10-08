@@ -13,7 +13,7 @@
 	<?php } ?>
 	<meta property="og:title" content="DevFest.Asia 2014 Singapore"/>
 	<meta property="og:type" content="website"/>
-	<meta property="og:url" content="http://devfest.asia/"/>
+	<meta property="og:url" content="http://2014.devfest.asia/"/>
 	<meta property="og:image" content="http://2014.devfest.asia/assets/og_devfestasia.png"/>
 	<meta property="og:site_name" content="devfest.asia"/>
 	<meta property="og:description" content="Southeast Asia's first community organized web developer festival, November 14th - 22nd, Singapore"/>
