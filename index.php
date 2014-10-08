@@ -49,7 +49,7 @@
 			<li style="background-image: url(img/agile.jpg)">
 				<a name="wed12" href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Wednesday</span><span class="day">12</span> Nov</div>
-					<div class="time"></div>
+					<div class="time">8am - 5pm</div>
 					<h3>Agile Singapore - Day 1</h3>
 					<p class="desc">A conference about methodology and problem solving in technology and beyond.</p>
 				</a>
@@ -59,7 +59,7 @@
 			<li style="background-image: url(img/agile.jpg)">
 				<a name="thu13" href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Thursday</span><span class="day">13</span> Nov</div>
-					<div class="time"></div>
+					<div class="time">8am - 7pm</div>
 					<h3>Agile Singapore - Day 2</h3>
 					<p class="desc">A conference about methodology and problem solving in technology and beyond.</p>
 				</a>
@@ -79,7 +79,7 @@
 			<li style="background-image: url(img/agile.jpg)">
 				<a href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
-					<div class="time"></div>
+					<div class="time">8am - 5pm</div>
 					<h3>Agile Singapore - Day 3</h3>
 					<p class="desc">A conference about methodology and problem solving in technology and beyond.</p>
 				</a>
