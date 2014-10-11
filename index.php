@@ -123,7 +123,7 @@
 					<h3>Front End Developer Meetup</h3>
 					<p class="desc">Free and open events for front end developers in Singapore. Come to learn, meet, and share.</p>
 				</a>
-				<div class="location">Location TBA</div>
+				<div class="location">TradeGecko office, 101c Telok Ayer Street, Singapore 068574</div>
 				<button onclick="location='https://www.facebook.com/groups/frontendsingapore/';">Join for free on Facebook</button>
 			</li>
 			<li style="background-image: url(img/cssconf.jpg)">
