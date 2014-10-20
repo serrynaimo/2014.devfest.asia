@@ -123,7 +123,7 @@
 					<h3>Singapore Gophers Meetup</h3>
 					<p class="desc">Talks and discussions about the programming language Go.</p>
 				</a>
-				<div class="location">Thoughtworks Singapore, 87b Amoy Street, Singapore 069906</div>
+				<div class="location">Thoughtworks, 87b Amoy Street, Singapore 069906</div>
 				<button onclick="location='https://www.facebook.com/events/453800508091383/';">Join for free on Facebook</button>
 			</li>
 			<li style="background-image: url(img/cssconf.jpg)">
