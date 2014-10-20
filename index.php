@@ -34,11 +34,11 @@
 		<nav>
 		    <a href="#">Browse by day</a>
 		    <a href="#wed12">12</a>
-   		    <a href="#thu13">13</a>
+   		 <a href="#thu13">13</a>
 		    <a href="#fri14">14</a>
 		    <a href="#sat15">15</a>
-		    <a href="#sun16">16</a>
 		    <a href="#mon17">17</a>
+		    <a href="#tue18">18</a>
 		    <a href="#wed19">19</a>
 		    <a href="#thu20">20</a>
 		    <a href="#fri21">21</a>
@@ -106,16 +106,6 @@
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
 				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
 			</li>
-			<li style="background-image: url(img/hackerspace.jpg)">
-				<a name="sun16" href="http://feds.strikingly.com/">
-					<div class="date"><span class="weekday">Sunday</span><span class="day">16</span> Nov</div>
-					<div class="time"></div>
-					<h3>Hackerspace.SG turns 5 - Day 3</h3>
-					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
-				</a>
-				<div class="location">344B King George’s Avenue, Singapore 208576</div>
-				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
-			</li>
 			<li style="background-image: url(img/frontend.jpg)">
 				<a name="mon17" href="http://feds.strikingly.com/">
 					<div class="date"><span class="weekday">Monday</span><span class="day">17</span> Nov</div>
@@ -125,6 +115,16 @@
 				</a>
 				<div class="location">TradeGecko office, 101c Telok Ayer Street, Singapore 068574</div>
 				<button onclick="location='https://www.facebook.com/groups/frontendsingapore/';">Join for free on Facebook</button>
+			</li>
+			<li style="background-image: url(img/gophers.jpg)">
+				<a name="tue18" href="https://www.facebook.com/events/453800508091383/">
+					<div class="date"><span class="weekday">Tuesday</span><span class="day">18</span> Nov</div>
+					<div class="time">7:00pm</div>
+					<h3>Singapore Gophers Meetup</h3>
+					<p class="desc">Talks and discussions about the programming language Go.</p>
+				</a>
+				<div class="location">Thoughtworks Singapore, 87b Amoy Street, Singapore 069906</div>
+				<button onclick="location='https://www.facebook.com/events/453800508091383/';">Join for free on Facebook</button>
 			</li>
 			<li style="background-image: url(img/cssconf.jpg)">
 				<a  name="wed19" href="http://2014.cssconf.asia">
