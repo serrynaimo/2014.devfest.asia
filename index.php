@@ -156,6 +156,16 @@
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
 			</li>
+			<li style="background-image: url(img/beer.jpg)">
+				<a href="http://2014.jsconf.asia">
+					<div class="date"><span class="weekday">Thursday</span><span class="day">20</span> Nov</div>
+					<div class="time">6pm</div>
+					<h3>Beer.js</h3>
+					<p class="desc">Official JSConf.Asia party sponsored by Nonstop Games - A King Studio</p>
+				</a>
+				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
+				<button onclick="location='https://eventnook.com/event/register/22634';">Everybody welcome, free drinks and craft-beers for JSConf.Asia attendees</button>
+			</li>
 			<li style="background-image: url(img/jsconf.jpg)">
 				<a name="fri21" href="http://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
