@@ -111,17 +111,27 @@
 					<div class="date"><span class="weekday">Monday</span><span class="day">17</span> Nov</div>
 					<div class="time">6:30pm</div>
 					<h3>Front End Developer Meetup</h3>
-					<p class="desc">Free and open events for front end developers in Singapore. Come to learn, meet, and share.</p>
+					<p class="desc">Free and open events for front end developers in Singapore. Come to learn, meet, and share. Organized by Sebastiaan Deckers.</p>
 				</a>
 				<div class="location">TradeGecko office, 101c Telok Ayer Street, Singapore 068574</div>
 				<button onclick="location='https://www.facebook.com/groups/frontendsingapore/';">Join for free on Facebook</button>
 			</li>
+			<li style="background-image: url(img/singaporejs.jpg)">
+				<a name="tue18" href="http://www.meetup.com/Singapore-JS/">
+					<div class="date"><span class="weekday">Tuesday</span><span class="day">18</span> Nov</div>
+					<div class="time">7:00pm</div>
+					<h3>talk.js Meetup</h3>
+					<p class="desc">Monthly SingaporeJS meetup organized by Tim Oxley. Everybody can come and share learnings about the web and JS.</p>
+				</a>
+				<div class="location">Microsoft Auditorium, One Marina Boulevard, Level 21, Singapore 018989</div>
+				<button onclick="location='http://www.meetup.com/Singapore-JS/events/214506892/';">Join for free on Meetup.com</button>
+			</li>
 			<li style="background-image: url(img/gophers.jpg)">
-				<a name="tue18" href="https://www.facebook.com/events/453800508091383/">
+				<a href="https://www.facebook.com/events/453800508091383/">
 					<div class="date"><span class="weekday">Tuesday</span><span class="day">18</span> Nov</div>
 					<div class="time">7:00pm</div>
 					<h3>Singapore Gophers Meetup</h3>
-					<p class="desc">Talks and discussions about the programming language Go.</p>
+					<p class="desc">Talks and discussions about the programming language Go. Organized by Lakshan Perera.</p>
 				</a>
 				<div class="location">Thoughtworks, 87b Amoy Street, Singapore 069906</div>
 				<button onclick="location='https://www.facebook.com/events/453800508091383/';">Join for free on Facebook</button>
