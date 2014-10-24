@@ -16,9 +16,9 @@
 	<meta property="og:url" content="http://2014.devfest.asia/"/>
 	<meta property="og:image" content="http://2014.devfest.asia/assets/og_devfestasia.png"/>
 	<meta property="og:site_name" content="devfest.asia"/>
-	<meta property="og:description" content="Southeast Asia's first community organized web developer festival, November 12th - 21st, Singapore"/>
+	<meta property="og:description" content="Southeast Asia's first community organized web developer festival, November 12th - 22st, Singapore"/>
 	<meta name="title" content=">DevFest.Asia 2014 Singapore"/>
-	<meta name="description" content="Southeast Asia's first community organized web developer festival, November 12th - 21st, Singapore"/>
+	<meta name="description" content="Southeast Asia's first community organized web developer festival, November 12th - 22st, Singapore"/>
 </head>
 <body>
 	<header>
@@ -29,12 +29,12 @@
 		</h1>
 		<h2>
 			Southeast Asia's first community organized web developer festival<br/><br/>
-			<i>November 12th - 21st</i>
+			<i>November 12th - 22st</i>
 		</h2>
 		<nav>
 		    <a href="#">Browse by day</a>
 		    <a href="#wed12">12</a>
-   		 <a href="#thu13">13</a>
+   		 	<a href="#thu13">13</a>
 		    <a href="#fri14">14</a>
 		    <a href="#sat15">15</a>
 		    <a href="#mon17">17</a>
@@ -42,6 +42,7 @@
 		    <a href="#wed19">19</a>
 		    <a href="#thu20">20</a>
 		    <a href="#fri21">21</a>
+		    <a href="#sat22">22</a>
 		</nav>
 	</header>
 	<section id="content">
@@ -195,6 +196,20 @@
 				</a>
 				<div class="location">Mambo Beach Club, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Everyone welcome, free drinks and beach BBQ for JSConf.Asia attendees</button>
+			</li>
+			<li style="background-image: url(img/kopi.jpg)">
+				<a href="https://github.com/KopiJS/kopi.js/issues/15">
+					<div class="date"><span class="weekday">Saturday</span><span class="day">22</span> Nov</div>
+					<div class="time">11:00am</div>
+					<h3>KopiJS</h3>
+					<p class="desc">
+						1. Gather at Kopi place. Chop all the tables.<br/>
+						2. Drink Kopi. Eat brunch also can if hungry.<br/>
+						3. Hang out like the cool kids and take group selfies.
+					</p>
+				</a>
+				<div class="location">TBA</div>
+				<button onclick="location='https://github.com/KopiJS/kopi.js/issues/15';">BYOK - Buy your own Kopi</button>
 			</li>
 		</ul>
 	</section>
