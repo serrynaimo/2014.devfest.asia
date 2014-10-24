@@ -198,7 +198,7 @@
 				<button onclick="location='https://eventnook.com/event/register/22634';">Everyone welcome, free drinks and beach BBQ for JSConf.Asia attendees</button>
 			</li>
 			<li style="background-image: url(img/kopi.jpg)">
-				<a href="https://github.com/KopiJS/kopi.js/issues/15">
+				<a name="sat22" href="https://github.com/KopiJS/kopi.js/issues/15">
 					<div class="date"><span class="weekday">Saturday</span><span class="day">22</span> Nov</div>
 					<div class="time">11:00am</div>
 					<h3>KopiJS</h3>
