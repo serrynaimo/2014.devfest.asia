@@ -77,16 +77,6 @@
 				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
 				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
 			</li>
-			<li style="background-image: url(img/hackerspace.jpg)">
-				<a name="fri14" href="http://feds.strikingly.com/">
-					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
-					<div class="time"></div>
-					<h3>Hackerspace.SG turns 5 - Day 1</h3>
-					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
-				</a>
-				<div class="location">344B King George’s Avenue, Singapore 208576</div>
-				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
-			</li>
 			<li style="background-image: url(img/agile.jpg)">
 				<a href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
@@ -101,7 +91,7 @@
 				<a name="sat15" href="http://feds.strikingly.com/">
 					<div class="date"><span class="weekday">Saturday</span><span class="day">15</span> Nov</div>
 					<div class="time"></div>
-					<h3>Hackerspace.SG turns 5 - Day 2</h3>
+					<h3>Hackerspace.SG turns 5</h3>
 					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
 				</a>
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
