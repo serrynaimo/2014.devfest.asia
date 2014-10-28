@@ -107,6 +107,16 @@
 				<div class="location">TradeGecko office, 101c Telok Ayer Street, Singapore 068574</div>
 				<button onclick="location='https://www.facebook.com/groups/frontendsingapore/';">Join for free on Facebook</button>
 			</li>
+			<li style="background-image: url(img/ios.jpg)">
+				<a href="https://www.facebook.com/events/1524971714415125/">
+					<div class="date"><span class="weekday">Monday</span><span class="day">17</span> Nov</div>
+					<div class="time">7:00pm</div>
+					<h3>iOS devscout</h3>
+					<p class="desc">Tech Sessions and show-n-tell around iOS development. Organized by Subhransu Behera.</p>
+				</a>
+				<div class="location">Millenia Tower #14th floor, 1 Temasek Avenue, Singapore 039192</div>
+				<button onclick="location='https://www.facebook.com/events/1524971714415125/';">Join for free on Facebook</button>
+			</li>
 			<li style="background-image: url(img/singaporejs.jpg)">
 				<a name="tue18" href="http://www.meetup.com/Singapore-JS/">
 					<div class="date"><span class="weekday">Tuesday</span><span class="day">18</span> Nov</div>
