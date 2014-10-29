@@ -85,7 +85,7 @@
 					<p class="desc">Talks about Nooku and how to build your own Instagram to Dropbox syncing script.</p>
 				</a>
 				<div class="location">Millenia Tower #14th floor, 1 Temasek Avenue, Singapore 039192</div>
-				<button onclick="location='https://www.facebook.com/events/720579288017906/';">Join for free on Facebook</button>
+				<button onclick="location='https://www.facebook.com/events/720579288017906/';">Join for FREE on Facebook</button>
 			</li>
 			<li style="background-image: url(img/agile.jpg)">
 				<a href="http://2014.agilesingapore.org/">
@@ -172,7 +172,7 @@
 					<div class="date"><span class="weekday">Thursday</span><span class="day">20</span> Nov</div>
 					<div class="time">8am - 6pm</div>
 					<h3>JSConf.Asia Day 1</h3>
-					<p class="desc">Asia's most influential JavaScript, web and mobile developer conference</p>
+					<p class="desc">Asia’s most influential JavaScript, web and mobile developer conference</p>
 				</a>
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
@@ -192,7 +192,7 @@
 					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">8am - 6pm</div>
 					<h3>JSConf.Asia Day 2</h3>
-					<p class="desc">Asia's most influential JavaScript, web and mobile developer conference</p>
+					<p class="desc">Asia’s most influential JavaScript, web and mobile developer conference</p>
 				</a>
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
