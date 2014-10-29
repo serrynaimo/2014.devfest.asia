@@ -77,6 +77,16 @@
 				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
 				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
 			</li>
+			<li style="background-image: url(img/mongophp.jpg)">
+				<a href="https://www.facebook.com/events/720579288017906/">
+					<div class="date"><span class="weekday">Thursday</span><span class="day">13</span> Nov</div>
+					<div class="time">7pm</div>
+					<h3>PHP + MongoDB meetup</h3>
+					<p class="desc">Talks about Nooku and how to build your own Instagram to Dropbox syncing script.</p>
+				</a>
+				<div class="location">Millenia Tower #14th floor, 1 Temasek Avenue, Singapore 039192</div>
+				<button onclick="location='https://www.facebook.com/events/720579288017906/';">Join for free on Facebook</button>
+			</li>
 			<li style="background-image: url(img/agile.jpg)">
 				<a href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
