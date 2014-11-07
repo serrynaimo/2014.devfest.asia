@@ -67,6 +67,16 @@
 				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
 				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
 			</li>
+			<li style="background-image: url(img/hackware.jpg)">
+				<a name="wed12" href="http://2014.agilesingapore.org/">
+					<div class="date"><span class="weekday">Wednesday</span><span class="day">12</span> Nov</div>
+					<div class="time">7.30pm</div>
+					<h3>Hackware v0.1</h3>
+					<p class="desc">Hackware is a community group for learning and sharing hardware projects and technology.</p>
+				</a>
+				<div class="location">HackerspaceSG, 344B, King George's Avenue, King George's Building, Singapore</div>
+				<button onclick="location='https://www.eventbrite.hk/e/hackware-v01-tickets-13983337539';">Come hack with us!</button>
+			</li>
 			<li style="background-image: url(img/agile.jpg)">
 				<a name="thu13" href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Thursday</span><span class="day">13</span> Nov</div>
