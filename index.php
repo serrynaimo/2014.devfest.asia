@@ -140,7 +140,7 @@
 			<li style="background-image: url(img/singaporejs.jpg)">
 				<a name="tue18" href="http://www.meetup.com/Singapore-JS/">
 					<div class="date"><span class="weekday">Tuesday</span><span class="day">18</span> Nov</div>
-					<div class="time">7:00pm</div>
+					<div class="time">7pm</div>
 					<h3>talk.js Meetup</h3>
 					<p class="desc">Monthly SingaporeJS meetup organized by Tim Oxley. Everybody can come and share learnings about the web and JS.</p>
 				</a>
