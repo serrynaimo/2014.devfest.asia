@@ -201,7 +201,7 @@
 				<a href="http://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Thursday</span><span class="day">20</span> Nov</div>
 					<div class="time">6pm</div>
-					<h3>Beer.js</h3>
+					<h3>BeerJS</h3>
 					<p class="desc">Official JSConf.Asia party sponsored by Nonstop Games - A King Studio</p>
 				</a>
 				<div class="location">Amara Sanctuary, Sentosa, Singapore</div>
@@ -221,7 +221,7 @@
 				<a href="http://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">6:30pm</div>
-					<h3>Beach.js</h3>
+					<h3>BeachJS</h3>
 					<p class="desc">Official JSConf.Asia after-party sponsored by Paypal</p>
 				</a>
 				<div class="location">Mambo Beach Club, Sentosa, Singapore</div>
