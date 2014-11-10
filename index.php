@@ -108,14 +108,14 @@
 				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
 			</li>
 			<li style="background-image: url(img/hackerspace.jpg)">
-				<a name="sat15" href="http://feds.strikingly.com/">
+				<a name="sat15" href="http://hackerspace.sg/">
 					<div class="date"><span class="weekday">Saturday</span><span class="day">15</span> Nov</div>
-					<div class="time"></div>
+					<div class="time">5:30pm</div>
 					<h3>Hackerspace.SG turns 5</h3>
-					<p class="desc">Small and big events around Singapores first kiasu-free zone.</p>
+					<p class="desc">HackerspaceSG, the Singapore tech scene's community centre, is having its 5th anniversary on November 15. We're throwing a party to celebrate!</p>
 				</a>
 				<div class="location">344B King George’s Avenue, Singapore 208576</div>
-				<button onclick="location='http://hackerspace.sg';">Hackerspace.SG website</button>
+				<button onclick="location='http://www.eventbrite.com/e/hackerspacesg-5th-birthday-party-tickets-14033282927';">$30 for Meng's Signature Dinner</button>
 			</li>
 			<li style="background-image: url(img/frontend.jpg)">
 				<a name="mon17" href="http://feds.strikingly.com/">
