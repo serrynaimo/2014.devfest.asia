@@ -67,6 +67,16 @@
 				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
 				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
 			</li>
+			<li style="background-image: url(img/hackware.jpg)">
+				<a href="https://www.facebook.com/events/741660682570878/">
+					<div class="date"><span class="weekday">Wednesday</span><span class="day">12</span> Nov</div>
+					<div class="time">7:30pm</div>
+					<h3>Hackware v0.1</h3>
+					<p class="desc">Hardware Show and Tell and lightning talks around IC packages and hardware tinkering.</p>
+				</a>
+				<div class="location">344B King George’s Avenue, Singapore 208576</div>
+				<button onclick="location='https://www.facebook.com/events/741660682570878/';">Join for free on Facebook</button>
+			</li>
 			<li style="background-image: url(img/agile.jpg)">
 				<a name="thu13" href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Thursday</span><span class="day">13</span> Nov</div>
@@ -120,7 +130,7 @@
 			<li style="background-image: url(img/ios.jpg)">
 				<a href="https://www.facebook.com/events/1524971714415125/">
 					<div class="date"><span class="weekday">Monday</span><span class="day">17</span> Nov</div>
-					<div class="time">7:00pm</div>
+					<div class="time">7pm</div>
 					<h3>iOS devscout</h3>
 					<p class="desc">Tech Sessions and show-n-tell around iOS development. Organized by Subhransu Behera.</p>
 				</a>
@@ -140,7 +150,7 @@
 			<li style="background-image: url(img/gophers.jpg)">
 				<a href="https://www.facebook.com/events/453800508091383/">
 					<div class="date"><span class="weekday">Tuesday</span><span class="day">18</span> Nov</div>
-					<div class="time">7:00pm</div>
+					<div class="time">7pm</div>
 					<h3>Singapore Gophers Meetup</h3>
 					<p class="desc">Talks and discussions about the programming language Go. Organized by Lakshan Perera.</p>
 				</a>
@@ -166,6 +176,16 @@
 				</a>
 				<div class="location">Southermost Point Island, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">$30 cover charge, free for CSSConf/JSConf.Asia attendees</button>
+			</li>
+			<li style="background-image: url(img/dockers.jpg)">
+				<a href="http://www.meetup.com/Docker-Singapore/events/217758232/">
+					<div class="date"><span class="weekday">Wednesday</span><span class="day">19</span> Nov</div>
+					<div class="time">7pm</div>
+					<h3>Docker Meetup</h3>
+					<p class="desc">Talks: Simple Virtual Hosting with Docker and CoreOS + Docker</p>
+				</a>
+				<div class="location">SingTel Comcentre Podium, SingTel Theatrette, 31B Exeter Road, Singapore 239733</div>
+				<button onclick="location='http://www.meetup.com/Docker-Singapore/events/217758232/';">Join for free on meetup.com</button>
 			</li>
 			<li style="background-image: url(img/jsconf.jpg)">
 				<a name="thu20" href="http://2014.jsconf.asia">
@@ -210,7 +230,7 @@
 			<li style="background-image: url(img/kopi.jpg)">
 				<a name="sat22" href="https://github.com/KopiJS/kopi.js/issues/15">
 					<div class="date"><span class="weekday">Saturday</span><span class="day">22</span> Nov</div>
-					<div class="time">11:00am</div>
+					<div class="time">11am</div>
 					<h3>KopiJS</h3>
 					<p class="desc">
 						1. Gather at Kopi place. Chop all the tables.<br/>
