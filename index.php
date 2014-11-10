@@ -238,7 +238,7 @@
 						3. Hang out like the cool kids and take group selfies.
 					</p>
 				</a>
-				<div class="location">TBA</div>
+				<div class="location">135 Amoy Street #01-01, Far East Square, Singapore 049964</div>
 				<button onclick="location='https://github.com/KopiJS/kopi.js/issues/15';">BYOK - Buy your own Kopi</button>
 			</li>
 		</ul>
