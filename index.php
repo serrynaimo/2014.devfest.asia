@@ -98,7 +98,7 @@
 				<button onclick="location='https://www.facebook.com/events/720579288017906/';">Join for FREE on Facebook</button>
 			</li>
 			<li style="background-image: url(img/agile.jpg)">
-				<a href="http://2014.agilesingapore.org/">
+				<a name="fri14" href="http://2014.agilesingapore.org/">
 					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
 					<div class="time">8am - 5pm</div>
 					<h3>Agile Singapore - Day 3</h3>
@@ -106,6 +106,16 @@
 				</a>
 				<div class="location">Level 4 Marina Bay Sands Expo & Convention Centre, 10 Bayfront Avenue, Singapore 018956</div>
 				<button onclick="location='http://agilesg2014.gevme.com/';">Get ticket</button>
+			</li>
+			<li style="background-image: url(img/hackfest.jpg)">
+				<a href="http://nushackers.org/">
+					<div class="date"><span class="weekday">Friday</span><span class="day">14</span> Nov</div>
+					<div class="time">6:30pm</div>
+					<h3>Friday Hacks</h3>
+					<p class="desc">Find out what your peers have been up to, and take part in NUS Hackers' first Mystery Event!</p>
+				</a>
+				<div class="location">SR3, Town Plaza (Level 2), University Town, NUS, Singapore 138607</div>
+				<button onclick="location='https://www.facebook.com/events/368317163343825';">Join for free on Facebook</button>
 			</li>
 			<li style="background-image: url(img/hackerspace.jpg)">
 				<a name="sat15" href="http://hackerspace.sg/">
