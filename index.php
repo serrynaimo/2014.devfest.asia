@@ -237,7 +237,7 @@
 				<div class="location">Mambo Beach Club, Sentosa, Singapore</div>
 				<button onclick="location='https://eventnook.com/event/register/22634';">Everyone welcome, free drinks and beach BBQ for JSConf.Asia attendees</button>
 			</li>
-			<li style="background-image: url(img/kopi.jpg)">
+			<li style="background-image: url(img/kopijs-devfest.png)">
 				<a name="sat22" href="https://github.com/KopiJS/kopi.js/issues/15">
 					<div class="date"><span class="weekday">Saturday</span><span class="day">22</span> Nov</div>
 					<div class="time">11am</div>
