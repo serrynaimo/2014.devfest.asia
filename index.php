@@ -21,6 +21,11 @@
 	<meta name="description" content="Southeast Asia's first community organized web developer festival, November 12th - 22nd, Singapore"/>
 </head>
 <body>
+  	<a href="https://jsconfasia.wufoo.com/forms/devfestasia-2016-list-my-event/" id="thisyear" style="-webkit-transition: all 1s ease-out; -moz-transition: all 1s ease-out; transition: all 1s ease-out; border-left: 10px solid #288ae2; z-index: 99999; position: fixed; color: black; text-decoration: none; bottom: 40px; right: -380px; width: 300px; padding: 20px 30px; background: rgba(255,255,255,0.95); box-shadow: 3px 3px 5px rba(0,0,0,0.5);">
+        <b>DevFest.Asia is back again this year!</b>
+        Want to register your event?
+    </a>
+
 	<header>
 		<h1>
 			<span class="location">Singapore</span>
@@ -273,6 +278,12 @@
 	  ga('create', 'UA-31025490-6', 'auto');
 	  ga('send', 'pageview');
 
-	</script>
+
+    setTimeout(function() {
+        $('#thisyear').addClass('loaded');
+      }, 2000);
+
+    </script>
+    <style> #thisyear.loaded { right: 0px !important; } </style>
 </body>
 </html>
