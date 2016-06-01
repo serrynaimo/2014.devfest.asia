@@ -5,16 +5,15 @@
 <head>
 	<meta charset="UTF-8">
 	<title>DevFest.Asia 2014 Singapore</title>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:200,300,700|Sue+Ellen+Francisco' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:200,300,700|Sue+Ellen+Francisco' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/app.css" />
-	<!link rel="shortcut icon" href="favicon.png" >
 	<?php if(!strpos($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
 	<meta name="viewport" content="width=500, user-scalable=no" />
 	<?php } ?>
 	<meta property="og:title" content="DevFest.Asia 2014 Singapore"/>
 	<meta property="og:type" content="website"/>
-	<meta property="og:url" content="http://2014.devfest.asia/"/>
-	<meta property="og:image" content="http://2014.devfest.asia/assets/og_devfestasia.png"/>
+	<meta property="og:url" content="//2014.devfest.asia/"/>
+	<meta property="og:image" content="//2014.devfest.asia/assets/og_devfestasia.png"/>
 	<meta property="og:site_name" content="devfest.asia"/>
 	<meta property="og:description" content="Southeast Asia's first community organized web developer festival, November 12th - 22nd, Singapore"/>
 	<meta name="title" content=">DevFest.Asia 2014 Singapore"/>
@@ -173,7 +172,7 @@
 				<button onclick="location='https://www.facebook.com/events/453800508091383/';">Join for free on Facebook</button>
 			</li>
 			<li style="background-image: url(img/cssconf.jpg)">
-				<a  name="wed19" href="http://2014.cssconf.asia">
+				<a  name="wed19" href="https://2014.cssconf.asia">
 					<div class="date"><span class="weekday">Wednesday</span><span class="day">19</span> Nov</div>
 					<div class="time">8am - 5pm</div>
 					<h3>CSSConf.Asia</h3>
@@ -183,7 +182,7 @@
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
 			</li>
 			<li style="background-image: url(img/redmart.jpg)">
-				<a href="http://2014.cssconf.asia">
+				<a href="https://2014.cssconf.asia">
 					<div class="date"><span class="weekday">Wednesday</span><span class="day">19</span> Nov</div>
 					<div class="time">6pm</div>
 					<h3>Developer Island</h3>
@@ -203,7 +202,7 @@
 				<button onclick="location='http://www.meetup.com/Docker-Singapore/events/217758232/';">Join for free on meetup.com</button>
 			</li>
 			<li style="background-image: url(img/jsconf.jpg)">
-				<a name="thu20" href="http://2014.jsconf.asia">
+				<a name="thu20" href="https://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Thursday</span><span class="day">20</span> Nov</div>
 					<div class="time">8am - 6pm</div>
 					<h3>JSConf.Asia Day 1</h3>
@@ -213,7 +212,7 @@
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
 			</li>
 			<li style="background-image: url(img/beer.jpg)">
-				<a href="http://2014.jsconf.asia">
+				<a href="https://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Thursday</span><span class="day">20</span> Nov</div>
 					<div class="time">6pm</div>
 					<h3>BeerJS</h3>
@@ -223,7 +222,7 @@
 				<button onclick="location='https://eventnook.com/event/register/22634';">Everybody welcome, free drinks and craft-beers for JSConf.Asia attendees</button>
 			</li>
 			<li style="background-image: url(img/jsconf.jpg)">
-				<a name="fri21" href="http://2014.jsconf.asia">
+				<a name="fri21" href="https://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">8am - 6pm</div>
 					<h3>JSConf.Asia Day 2</h3>
@@ -233,7 +232,7 @@
 				<button onclick="location='https://eventnook.com/event/register/22634';">Get ticket</button>
 			</li>
 			<li style="background-image: url(img/paypal.jpg)">
-				<a href="http://2014.jsconf.asia">
+				<a href="https://2014.jsconf.asia">
 					<div class="date"><span class="weekday">Friday</span><span class="day">21</span> Nov</div>
 					<div class="time">6:30pm</div>
 					<h3>BeachJS</h3>
